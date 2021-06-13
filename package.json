@@ -1,0 +1,19 @@
+{
+  "name": "listenable-proxy",
+  "version": "1.0.0",
+  "description": "Listen to events emitted from any trap in the JS Proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "events",
+    "event",
+    "proxy",
+    "observable",
+    "bind",
+    "listen"
+  ],
+  "author": "",
+  "license": "ISC"
+}
